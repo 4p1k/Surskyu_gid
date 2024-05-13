@@ -1,0 +1,75 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.PenzaIMG{
+    padding: 15px;
+    width: 150px;
+    border-radius: 50rem;
+    transition: transform 0.4s ease;
+}
+.NikolskIMG{
+    padding: 15px;
+    width:150px;
+    height: 150px;
+    border-radius: 50cm;
+    transition: transform 0.4s ease;
+}
+.MokshanIMG{
+    padding: 15px;
+    height: 160px;
+    width: 160px;
+    border-radius: 50rem;
+    transition: transform 0.4s ease;
+
+ 
+}
+.more-info-mokshan {
+    display: none;
+    border: 1px solid;
+    border-radius: 25%;
+    background-color: rgb(235, 234, 233);
+    transition: transform 0.4s ease;
+}
+
+
+
+
+
+
+.KyznetskIMG{
+    padding: 15px;
+    height: 160px;
+    width: 160px;
+    border-radius: 50rem;
+    transition: transform 0.4s ease;
+}
+.NarovchatIMG{
+    padding: 5px;
+    height: 160px;
+    width: 160px;
+    border-radius: 50rem;
+    transition: transform 0.4s ease;;
+}
+.BelinskIMG{
+    padding: 15px;
+    height: 160px;
+    width: 160px;
+    border-radius: 50rem;
+    transition: transform 0.4s ease;
+}
+.TarhanyIMG{
+    padding: 15px;
+    height: 160px;
+    width: 160px;
+    border-radius: 50rem;
+    transition: transform 0.4s ease;
+
+}
+.upCase, .midleCase, .lowerCase{
+    display: flex;
+    padding: 15px;
+    margin: 15px;
+}
