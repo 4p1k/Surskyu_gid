@@ -1,0 +1,118 @@
+.Mokshan:hover {
+    transform: scale(0.9);
+  }
+  
+  .Mokshan:hover .more-info {
+    display: block;
+    transform: scale(0.9);
+    animation-duration: 3s;
+    animation-name: open;
+    animation-fill-mode: forwards;
+  }
+  
+  .MokshanIMG:hover {
+    transform: scale(1.2);
+  }
+
+
+
+
+.Penza:hover{
+
+    transform: scale(0.9);
+}
+
+.Penza:hover .more-info{
+    display: block;
+    transform: scale(0.9);
+    animation-duration: 3s;
+    animation-name: open;
+}
+
+.PenzaIMG:hover{
+    transform: scale(1.2);
+}
+
+
+
+
+.Nikolsk:hover{
+    transform: scale(0.9);
+}
+.Nikolsk:hover .more-info{
+    display: block;
+    transform: scale(0.9);
+    animation-duration: 3s;
+    animation-name: open;
+}
+.NikolskIMG:hover{
+    transform: scale(1.2);
+}
+
+
+
+.Kyznetsk:hover{
+    transform: scale(0.9);
+}
+.Kyznetsk:hover .more-info{
+    display: block;
+    transform: scale(0.9);
+    animation-duration: 3s;
+    animation-name: open;
+}
+.KyznetskIMG:hover{
+    transform: scale(1.2);
+}
+
+
+.Narovchat:hover{
+    transform: scale(0.9);
+}
+.Narovchat:hover .more-info{
+    display: block;
+    transform: scale(0.9);
+    animation-duration: 3s;
+    animation-name: open;
+}
+.NarovchatIMG:hover{
+    transform: scale(1.2);
+}
+
+.Belinsk:hover{
+    transform: scale(0.9);
+}
+.Belinsk:hover .more-info{
+    display: block;
+    transform: scale(0.9);
+    animation-duration: 3s;
+    animation-name: open;
+}
+.BelinskIMG:hover{
+    transform: scale(1.2);
+}
+
+
+.Tarhany:hover{
+ transform: scale(0.9);
+}
+.Tarhany:hover .more-info{
+    display: block;
+    transform: scale(0.9);
+    animation-duration: 3s;
+    animation-name: open;
+}
+
+.TarhanyIMG:hover{
+    transform: scale(1.2);
+}
+
+
+@keyframes open {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
