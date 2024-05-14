@@ -1,0 +1,160 @@
+body{
+    background-image: url("../img/kartinki-dlia-fona-7.webp") ;
+    background-attachment: fixed;
+    zoom:115%
+}
+h1,h2, p{
+    font-family: 'Georgia', serif;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+nav{
+    background-image: url("../img/Coat_of_arms_of_Penza_Oblast.svg");
+    border: 1px solid ;
+    border-radius: 30rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background-color: #ffffff;
+}
+h1{
+    font-family: 'Montserrat', 'Lato', 'Open Sans', 'Roboto', sans-serif;
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Penza{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px;
+    transition: transform 0.4s ease;
+}
+.PenzaIMG{
+    padding: 15px;
+    width: 190px;
+    border-radius: 50rem;
+    transition: transform 0.4s ease;
+}
+.Nikolsk{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px;
+    transition: transform 0.4s ease;
+}
+.NikolskIMG{
+    padding: 15px;
+    width:190px;
+    height: 190px;
+    border-radius: 50cm;
+    transition: transform 0.4s ease;
+}
+
+
+.MokshanIMG{
+    padding: 15px;
+    height: 190px;
+    width: 190px;
+    border-radius: 50rem;
+    transition: transform 0.4s ease;
+
+ 
+}
+.more-info {
+    display: none;
+    border: 1px solid;
+    border-radius: 10%;
+    background-color: rgb(235, 234, 233);
+    transition:width 0.3s ease ;
+    height:auto;
+    width: 400px;
+}
+
+
+.Mokshan{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px;
+    transition: transform 0.4s ease;
+}
+
+
+
+.Kyznetsk{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px;
+    transition: transform 0.4s ease;
+}
+
+.KyznetskIMG{
+    padding: 15px;
+    height: 190px;
+    width: 190px;
+    border-radius: 50rem;
+    transition: transform 0.4s ease;
+}
+
+.Narovchat{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px;
+    transition: transform 0.4s ease;
+}
+.NarovchatIMG{
+    padding: 5px;
+    height: 190px;
+    width: 190px;
+    border-radius: 50rem;
+    transition: transform 0.4s ease;;
+}
+
+.Belinsk{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px;
+    transition: transform 0.4s ease;
+}
+.BelinskIMG{
+    padding: 15px;
+    height: 190px;
+    width: 190px;
+    border-radius: 50rem;
+    transition: transform 0.4s ease;
+}
+
+.Tarhany{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px;
+    transition: transform 0.4s ease;
+}
+.TarhanyIMG{
+    padding: 15px;
+    height: 190px;
+    width: 190px;
+    border-radius: 50rem;
+    transition: transform 0.4s ease;
+
+}
+
+
+
+
+.upCase, .midleCase, .lowerCase{
+    display: flex;
+    padding: 15px;
+
+}

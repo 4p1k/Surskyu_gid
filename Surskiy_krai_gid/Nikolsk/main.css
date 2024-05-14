@@ -1,0 +1,44 @@
+body{
+    background-image: url("../img/kartinki-dlia-fona-7.webp") ;
+    background-attachment: fixed;
+    zoom:115%
+}
+nav{
+    background-image: url("../img/Coat_of_arms_of_Penza_Oblast.svg");
+    border: 1px solid ;
+    border-radius: 30rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    background-color: #ffffff;
+}
+h1{
+    font-family: 'Montserrat', 'Lato', 'Open Sans', 'Roboto', sans-serif;
+}
+.left{
+    display: flex;
+}
+.left > img{
+    width: 450px;
+    padding: 5px;
+    
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffff;
+}
+.right {
+    background-color: white;
+    border-radius: 30px;
+    padding: 5%; /* Добавляем отступы внутри контейнера */
+}
+p{
+    font-family: 'Montserrat', 'Lato', 'Open Sans', 'Roboto', sans-serif;
+    font-weight: normal;
+} 
+a{
+    color: black;
+}
