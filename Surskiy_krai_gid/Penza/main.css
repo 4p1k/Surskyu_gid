@@ -21,7 +21,7 @@ h1{
     flex-direction: column;
     align-items: center;
 }
-.house-gubernatora, .one-picture,.msc-street,.house-Mey{
+.house-gubernatora, .one-picture,.msc-street,.house-Mey,.teatre,.pamatnik{
     display: flex;
     flex-direction: row;
     align-items: center;
